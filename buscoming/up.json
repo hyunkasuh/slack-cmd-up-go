@@ -1,0 +1,7 @@
+{
+  "name": "slack-cmd-buscoming",
+  "profile": "default",
+  "regions": [
+    "ca-central-1"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "slack-cmd-wiki",
+  "profile": "default",
+  "regions": [
+    "ca-central-1"
+  ]
+}

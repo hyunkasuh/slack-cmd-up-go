@@ -1,0 +1,7 @@
+{
+  "name": "slack-cmd-test",
+  "profile": "default",
+  "regions": [
+    "ca-central-1"
+  ]
+}
